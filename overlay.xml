@@ -2,11 +2,11 @@
 <layman>
   <overlay
       type = "git"
-      src  = "git://github.com/CMoH/gnome15-overlay.git"
-      contact = "cheepeero@gmx.net"
+      src  = "git://github.com/nikopas/gnome15-overlay.git"
+      contact = "ni3pas@gmail.com"
       status = "unofficial"
-      name = "gnome15">
-    <link>http://github.com/CMoH/gnome15-overlay</link>
+      name = "gnome19">
+    <link>http://github.com/nikopas/gnome15-overlay</link>
     <description>Gentoo ebuilds for Gnome15 packages</description>
   </overlay>
 </layman>
